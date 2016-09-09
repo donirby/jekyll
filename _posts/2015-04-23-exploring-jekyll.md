@@ -8,7 +8,7 @@ Once Jekyll is installed you can begin to explore its functionality. In this pos
 
 The first step to exploring Jekyll is to create a new Jekyll site, serve it, and then preview it locally in your browser. Then you can begin to tweak the site to get a better understanding of how it all works together. 
 
-###Building a new site
+### Building a new site
 
 To build a new site, create a directory named `practice` and navigate there in Terminal or whichever command line interface you’re using. Once there run the following commands:
 
@@ -52,7 +52,7 @@ Some highlights: The **_config.yml** file contains the configuration settings fo
 
 Feel free to open any of the files in a text editor and explore them; just don’t make any changes yet! 
 
-###Serving your new site
+### Serving your new site
 
 Now run the following command:
 

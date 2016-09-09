@@ -55,7 +55,7 @@ category: jekyll
 
 This tells Jekyll to use the “post” template to assemble the page, and assigns the ‘title’ and ‘category’ variables that can be used on that page or throughout the site. Jekyll will process any file that contains YAML front matter. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. It can contain any of the predefined global variables such as **layout**, **permalink**, or **category** or any custom variable you wish to create. If you wished to display the authors name, for example, you could add **author: ‘author’s name’** to the front matter and then reference that in your templates using `{{"{{page.author"}}}}`.
 
-###Is Jekyll right for you?
+### Is Jekyll right for you?
 
 Jekyll isn’t right for every designer, or every project. It’s perfect for smaller sites, blogs, portfolios, and project wikis, but might not be right for corporate sites or sites that require advanced functionality and heavy database usage. 
 
